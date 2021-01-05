@@ -1,0 +1,8 @@
+.container {
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding: 50px 15px;
+  background-color: var(--bgColorContainer);
+}
