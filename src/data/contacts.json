@@ -1,0 +1,51 @@
+[
+  {
+    "id": "id-1",
+    "label": "Phone",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/3178/3178496.svg",
+    "link": "tel:380506991179",
+    "text": "+38 050 699 11 79"
+  },
+  {
+    "id": "id-2",
+    "label": "E-mail",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/1932/1932718.svg",
+    "link": "mailto:yermak1037@gmail.com",
+    "text": "yermak1037@gmail.com"
+  },
+  {
+    "id": "id-3",
+    "label": "Git Hub",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111290.svg",
+    "link": "https://github.com/yermakovaa/",
+    "text": "GitHub"
+  },
+  {
+    "id": "id-4",
+    "label": "LinkedIn",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111368.svg",
+    "link": "https://www.linkedin.com/in/yermakovaa/",
+    "text": "LinkedIn"
+  },
+  {
+    "id": "id-5",
+    "label": "Telegram",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111545.svg",
+    "link": "https://t.me/ayermakova",
+    "text": "Telegram"
+  },
+  {
+    "id": "id-6",
+    "label": "Instagram",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111336.svg",
+    "link": "https://www.instagram.com/stacy_yermak/",
+    "text": "Instagram"
+  },
+  {
+    "id": "id-7",
+    "label": "Facebook",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111274.svg",
+    "link": "https://www.facebook.com/profile.php?id=100014131747894",
+    "text": "Facebook"
+  }
+]

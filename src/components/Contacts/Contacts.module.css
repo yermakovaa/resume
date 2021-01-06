@@ -1,0 +1,25 @@
+.contact {
+  display: flex;
+  align-items: center;
+}
+
+.contact:not(:last-child) {
+  margin-bottom: 5px;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #606872;
+  transition: color 250ms var(--timingFn);
+}
+
+.link:hover,
+.link:focus {
+  color: var(--accentColor);
+}

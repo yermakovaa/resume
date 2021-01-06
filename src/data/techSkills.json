@@ -1,0 +1,7 @@
+[
+  { "id": "id-1", "label": "HTML5" },
+  { "id": "id-2", "label": "CSS3" },
+  { "id": "id-3", "label": "JavaScript" },
+  { "id": "id-4", "label": "React" },
+  { "id": "id-5", "label": "GIT" }
+]

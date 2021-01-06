@@ -1,0 +1,22 @@
+.sidebar {
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+  background: #1e2939;
+}
+
+.section {
+  margin-top: 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.title {
+  margin-bottom: 20px;
+
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+}
