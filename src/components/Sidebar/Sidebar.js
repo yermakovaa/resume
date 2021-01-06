@@ -1,13 +1,14 @@
 import Contacts from '../Contacts';
 import TechSkills from '../TechSkills';
 import SoftSkills from '../SoftSkills';
+import PropTypes from 'prop-types';
 import s from './Sidebar.module.css';
 import myPhoto from '../../img/photo.jpeg';
 
 function Sidebar({ contacts, techSkills, softSkills }) {
   return (
     <aside className={s.sidebar}>
-      <img src={myPhoto} alt="Yermakova Anastasiia" />
+      <img src={myPhoto} alt="Yermakova Anastasiia" className={s.photo} />
       <div className={s.section}>
         <h3 className={s.title}>Contacts</h3>
         <ul>
@@ -41,5 +42,11 @@ function Sidebar({ contacts, techSkills, softSkills }) {
     </aside>
   );
 }
+
+Sidebar.propTypes = {
+  contacts: PropTypes.arrayOf(PropTypes.object),
+  techSkills: PropTypes.arrayOf(PropTypes.object),
+  softSkills: PropTypes.arrayOf(PropTypes.object),
+};
 
 export default Sidebar;

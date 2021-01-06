@@ -1,0 +1,37 @@
+.container {
+  padding: 90px;
+}
+
+.info {
+  margin-bottom: 40px;
+}
+
+.profession {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.projects {
+  margin-bottom: 55px;
+}
+
+.title {
+  margin-bottom: 15px;
+
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+}
