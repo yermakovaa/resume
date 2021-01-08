@@ -1,0 +1,29 @@
+.university {
+  margin-top: 25px;
+  margin-bottom: 15px;
+
+  color: var(--accentColor);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.education {
+  margin-top: 10px;
+  margin-bottom: 15px;
+
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.time {
+  color: var(--secondaryTextColor);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.divider {
+  color: #000000;
+}

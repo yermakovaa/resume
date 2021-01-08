@@ -1,5 +1,7 @@
 import Projects from '../Projects';
 import Experience from '../Experience';
+import Education from '../Education';
+import PropTypes from 'prop-types';
 import s from './AboutMe.module.css';
 
 function AboutMe({ projects, experience }) {
@@ -40,8 +42,17 @@ function AboutMe({ projects, experience }) {
           )}
         </ul>
       </div>
+      <div className={s.section}>
+        <h3 className={s.title}>Education</h3>
+        <Education />
+      </div>
     </div>
   );
 }
+
+AboutMe.propTypes = {
+  projects: PropTypes.arrayOf(PropTypes.object),
+  experience: PropTypes.arrayOf(PropTypes.object),
+};
 
 export default AboutMe;
