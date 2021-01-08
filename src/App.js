@@ -5,6 +5,7 @@ import contacts from './data/contacts.json';
 import techSkills from './data/techSkills.json';
 import softSkills from './data/softSkills.json';
 import projects from './data/projects.json';
+import experience from './data/experience.json';
 
 function App() {
   return (
@@ -14,7 +15,7 @@ function App() {
         techSkills={techSkills}
         softSkills={softSkills}
       />
-      <AboutMe projects={projects} />
+      <AboutMe projects={projects} experience={experience} />
     </Wrapper>
   );
 }
