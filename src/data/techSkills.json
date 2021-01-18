@@ -1,19 +1,7 @@
 [
   { "id": "id-1", "label": "HTML5" },
   { "id": "id-2", "label": "CSS3" },
-  { "id": "id-3", "label": "Sass" },
-  { "id": "id-4", "label": "GIT" },
-  { "id": "id-5", "label": "BEM" },
-  { "id": "id-6", "label": "JavaScript" },
-  { "id": "id-7", "label": "WebPack" },
-  { "id": "id-8", "label": "Parcel" },
-  { "id": "id-9", "label": "Gulp" },
-  { "id": "id-10", "label": "Babel" },
-  { "id": "id-11", "label": "Handlebars" },
-  { "id": "id-12", "label": "AJAX" },
-  { "id": "id-13", "label": "Rest API" },
-  { "id": "id-14", "label": "React.js" },
-  { "id": "id-15", "label": "Material-UI" },
-  { "id": "id-16", "label": "Bootstrap" },
-  { "id": "id-17", "label": "Node.js" }
+  { "id": "id-3", "label": "GIT" },
+  { "id": "id-4", "label": "JavaScript" },
+  { "id": "id-5", "label": "React.js" }
 ]

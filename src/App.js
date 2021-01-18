@@ -4,7 +4,8 @@ import AboutMe from './components/AboutMe';
 import contacts from './data/contacts.json';
 import techSkills from './data/techSkills.json';
 import softSkills from './data/softSkills.json';
-import projects from './data/projects.json';
+import commandProjects from './data/commandProjects.json';
+import ownProjects from './data/ownProjects.json';
 import experience from './data/experience.json';
 
 function App() {
@@ -15,7 +16,11 @@ function App() {
         techSkills={techSkills}
         softSkills={softSkills}
       />
-      <AboutMe projects={projects} experience={experience} />
+      <AboutMe
+        commandProjects={commandProjects}
+        ownProjects={ownProjects}
+        experience={experience}
+      />
     </Wrapper>
   );
 }

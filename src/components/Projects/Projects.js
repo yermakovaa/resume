@@ -4,7 +4,7 @@ function Projects({ label, link, tech }) {
   return (
     <li className={s.item}>
       <div className={s.flex}>
-        <a className={s.link} href={link}>
+        <a className={s.link} href={link} target="_blank" rel="noreferrer">
           {label}
         </a>
         <span>

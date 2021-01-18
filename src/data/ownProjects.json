@@ -7,54 +7,36 @@
   },
   {
     "id": "id-2",
-    "label": "BarberShop",
-    "link": "https://zhivotenkoalex.github.io/barbershop/",
-    "tech": "HTML5, CSS3"
-  },
-  {
-    "id": "id-3",
     "label": "WebDev",
     "link": "https://yermakovaa.github.io/WebDev/",
     "tech": "HTML5, CSS3"
   },
   {
-    "id": "id-4",
+    "id": "id-3",
     "label": "Snake game",
     "link": "https://yermakovaa.github.io/snake-game/",
     "tech": "JavaScript"
   },
   {
+    "id": "id-4",
+    "label": "Clock",
+    "link": "https://yermakovaa.github.io/JS-and-CSS-Clock/",
+    "tech": "JavaScript"
+  },
+  {
     "id": "id-5",
-    "label": "Calculator",
-    "link": "https://yermakovaa.github.io/calculator/",
-    "tech": "JavaScript"
-  },
-  {
-    "id": "id-6",
-    "label": "Filmoteka",
-    "link": "https://romanvoznyy.github.io/final-project-js/",
-    "tech": "JavaScript"
-  },
-  {
-    "id": "id-7",
-    "label": "Photo Gallery",
-    "link": "https://yermakovaa.github.io/gallery-practice/",
-    "tech": "JQuery"
-  },
-  {
-    "id": "id-8",
     "label": "Image Finder",
     "link": "https://yermakovaa.github.io/goit-react-hw-03-image-finder/",
     "tech": "React"
   },
   {
-    "id": "id-9",
+    "id": "id-6",
     "label": "Weather",
     "link": "https://yermakovaa.github.io/weather/",
     "tech": "React"
   },
   {
-    "id": "id-10",
+    "id": "id-7",
     "label": "Movies",
     "link": "https://yer-movies.netlify.app/",
     "tech": "React"

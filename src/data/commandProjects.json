@@ -1,0 +1,14 @@
+[
+  {
+    "id": "id-1",
+    "label": "BarberShop",
+    "link": "https://zhivotenkoalex.github.io/barbershop/",
+    "tech": "HTML5, CSS3"
+  },
+  {
+    "id": "id-2",
+    "label": "Filmoteka",
+    "link": "https://romanvoznyy.github.io/final-project-js/",
+    "tech": "JavaScript"
+  }
+]
