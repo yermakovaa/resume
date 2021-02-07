@@ -40,5 +40,11 @@
     "label": "Movies",
     "link": "https://yer-movies.netlify.app/",
     "tech": "React"
+  },
+  {
+    "id": "id-8",
+    "label": "Phonebook",
+    "link": "https://yer-phonebook.netlify.app/",
+    "tech": "React"
   }
 ]
