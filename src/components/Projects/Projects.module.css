@@ -7,11 +7,12 @@
 .flex {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .link {
   margin-right: 5px;
-  max-width: 400px;
+  width: 50%;
   overflow: hidden;
   white-space: nowrap;
 
