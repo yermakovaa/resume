@@ -22,14 +22,20 @@
         "id": "4",
         "duty": "Experience with common front-end development tools such as Babel, Webpack, NPM, etc."
       },
-      { "id": "5", "duty": "Experience with REST APIs." },
+      {
+        "id": "5",
+        "duty": "Experience with REST APIs."
+      },
       {
         "id": "6",
         "duty": "Developing new user-facing features using React.js."
+      },
+      {
+        "id": "7",
+        "duty": "Experience in creating a REST API for working with a collection."
       }
     ]
   },
-
   {
     "id": "id-2",
     "profession": "Accountant",
@@ -37,7 +43,10 @@
     "time": "June 2017 - April 2020",
     "country": "Ukraine",
     "duties": [
-      { "id": "1", "duty": "Accounting of several legal entities." },
+      {
+        "id": "1",
+        "duty": "Accounting of several legal entities."
+      },
       {
         "id": "2",
         "duty": "Organization and maintenance of all areas of accounting - from primary documentation to tax and accounting."
@@ -48,7 +57,6 @@
       }
     ]
   },
-
   {
     "id": "id-3",
     "profession": "Call Center Operator",
@@ -64,10 +72,12 @@
         "id": "2",
         "duty": "Execution of operations on payment cards at the request of clients."
       },
-      { "id": "3", "duty": "Experience with CRM-system." }
+      {
+        "id": "3",
+        "duty": "Experience with CRM-system."
+      }
     ]
   },
-
   {
     "id": "id-4",
     "profession": "Laboratory assistant",
@@ -83,7 +93,10 @@
         "id": "2",
         "duty": "Providing technical assistance in the preparation of methodological and educational documents (materials)."
       },
-      { "id": "3", "duty": "Control over the execution of management orders." }
+      {
+        "id": "3",
+        "duty": "Control over the execution of management orders."
+      }
     ]
   }
 ]
