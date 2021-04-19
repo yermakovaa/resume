@@ -2,8 +2,11 @@
   list-style: none;
 }
 
+.item:not(:last-child) {
+  margin-bottom: 20px;
+}
+
 .title {
-  margin-top: 10px;
   margin-bottom: 15px;
 
   font-size: 16px;
@@ -16,6 +19,9 @@
 }
 
 .time {
+  display: block;
+  margin-bottom: 15px;
+
   color: var(--secondaryTextColor);
   font-size: 12px;
   font-weight: 400;
@@ -24,11 +30,6 @@
 
 .divider {
   color: #000000;
-}
-
-.duties {
-  margin-top: 14px;
-  margin-bottom: 30px;
 }
 
 .duty {

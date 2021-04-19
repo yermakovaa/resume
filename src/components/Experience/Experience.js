@@ -10,7 +10,7 @@ function Experience({ profession, company, time, country, duties }) {
         {time}
         <span className={s.divider}> |</span> {country}
       </span>
-      <ul className={s.duties}>
+      <ul>
         {duties.map(({ id, duty }) => (
           <li key={id} className={s.duty}>
             {duty}

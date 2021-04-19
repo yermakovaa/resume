@@ -2,7 +2,7 @@
   padding: 90px;
 }
 
-.section {
+.section:not(:last-child) {
   margin-bottom: 40px;
 }
 
@@ -25,7 +25,7 @@
 }
 
 .title {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
 
   font-size: 22px;
   font-weight: 700;
@@ -33,7 +33,6 @@
 }
 
 .subTitle {
-  margin-top: 20px;
   margin-bottom: 10px;
 
   font-size: 16px;
@@ -43,4 +42,8 @@
 
 .typeProject {
   color: var(--accentColor);
+}
+
+.list {
+  margin-bottom: 15px;
 }

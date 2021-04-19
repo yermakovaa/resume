@@ -1,6 +1,22 @@
 [
-  { "id": "id-1", "label": "Scrum" },
-  { "id": "id-2", "label": "Agile" },
-  { "id": "id-3", "label": "GTD" },
-  { "id": "id-4", "label": "Teamwork" }
+  {
+    "id": "id-1",
+    "label": "Teamwork"
+  },
+  {
+    "id": "id-2",
+    "label": "Scrum"
+  },
+  {
+    "id": "id-3",
+    "label": "Responsibility"
+  },
+  {
+    "id": "id-4",
+    "label": "Flexibility"
+  },
+  {
+    "id": "id-5",
+    "label": "GTD"
+  }
 ]

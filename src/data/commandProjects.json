@@ -3,12 +3,18 @@
     "id": "id-1",
     "label": "BarberShop",
     "link": "https://zhivotenkoalex.github.io/barbershop/",
-    "tech": "HTML5, CSS3"
+    "tech": "HTML5, Sass, JavaScript"
   },
   {
     "id": "id-2",
     "label": "Filmoteka",
     "link": "https://romanvoznyy.github.io/final-project-js/",
-    "tech": "JavaScript"
+    "tech": "HTML5, Sass, JavaScript"
+  },
+  {
+    "id": "id-3",
+    "label": "Pro Test",
+    "link": "https://protest-fsdev.netlify.app/",
+    "tech": "React.js, Redux, Node.js"
   }
 ]

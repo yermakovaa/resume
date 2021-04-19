@@ -1,43 +1,6 @@
 [
   {
     "id": "id-1",
-    "profession": "Full Stack Web Developer - student",
-    "company": "GoIT",
-    "time": "April 2020 - up to now",
-    "country": "Ukraine",
-    "duties": [
-      {
-        "id": "1",
-        "duty": "Experience with code versioning tools (such as Git)."
-      },
-      {
-        "id": "2",
-        "duty": "The layout of the web-pages with clean cross-browser valid code using Figma."
-      },
-      {
-        "id": "3",
-        "duty": "Experience in web application development using JavaScript."
-      },
-      {
-        "id": "4",
-        "duty": "Experience with common front-end development tools such as Babel, Webpack, NPM, etc."
-      },
-      {
-        "id": "5",
-        "duty": "Experience with REST APIs."
-      },
-      {
-        "id": "6",
-        "duty": "Developing new user-facing features using React.js."
-      },
-      {
-        "id": "7",
-        "duty": "Experience in creating a REST API for working with a collection."
-      }
-    ]
-  },
-  {
-    "id": "id-2",
     "profession": "Accountant",
     "company": "Private enterprise",
     "time": "June 2017 - April 2020",
@@ -58,7 +21,7 @@
     ]
   },
   {
-    "id": "id-3",
+    "id": "id-2",
     "profession": "Call Center Operator",
     "company": "PJSC Datagroup",
     "time": "May 2017 - June 2017",
@@ -79,7 +42,7 @@
     ]
   },
   {
-    "id": "id-4",
+    "id": "id-3",
     "profession": "Laboratory assistant",
     "company": "Donetsk State University of Management",
     "time": "September 2015 - March 2017",

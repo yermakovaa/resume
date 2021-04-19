@@ -1,6 +1,13 @@
-.university {
-  margin-top: 25px;
+.item {
+  list-style: none;
+}
+
+.item:not(:last-child) {
   margin-bottom: 15px;
+}
+
+.university {
+  margin-bottom: 10px;
 
   color: var(--accentColor);
   font-size: 16px;
@@ -9,8 +16,7 @@
 }
 
 .education {
-  margin-top: 10px;
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 
   font-size: 14px;
   font-weight: 700;
