@@ -33,19 +33,5 @@
     "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111545.svg",
     "link": "https://t.me/ayermakova",
     "text": "Telegram"
-  },
-  {
-    "id": "id-6",
-    "label": "Instagram",
-    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111336.svg",
-    "link": "https://www.instagram.com/stacy_yermak/",
-    "text": "Instagram"
-  },
-  {
-    "id": "id-7",
-    "label": "Facebook",
-    "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111274.svg",
-    "link": "https://www.facebook.com/profile.php?id=100014131747894",
-    "text": "Facebook"
   }
 ]
