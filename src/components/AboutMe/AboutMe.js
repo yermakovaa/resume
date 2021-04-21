@@ -8,11 +8,11 @@ function AboutMe({ commandProjects, ownProjects, experience, education }) {
   return (
     <div className={s.container}>
       <div className={s.section}>
-        <h2 className={s.profession}>Front-end (React) developer</h2>
+        <h2 className={s.profession}>Frontend (React) Developer</h2>
         <h1 className={s.name}>Anastasiia Yermakova</h1>
         <p className={s.description}>
-          Hey 👋. Looking for a job for the position of Front-end (React)
-          developer. I want to be in a good team, where I could improve my
+          Hey 👋. Looking for a job for the position of Frontend (React)
+          Developer. I want to be in a good team, where I could improve my
           skills and use them for interesting tasks. I am a fast learner,
           responsible, ready for hard tasks.
         </p>
