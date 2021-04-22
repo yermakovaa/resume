@@ -1,6 +1,6 @@
 import s from './Education.module.css';
 
-function Education({ university, label, time }) {
+function Education({ university, label, time, experience }) {
   return (
     <li className={s.item}>
       <p className={s.university}>{university}</p>
@@ -9,6 +9,13 @@ function Education({ university, label, time }) {
         {time}
         <span className={s.divider}> |</span> Ukraine
       </span>
+      {experience && (
+        <ul className={s.list}>
+          {experience.map(({ id, label }) => (
+            <li key={id}>{label}</li>
+          ))}
+        </ul>
+      )}
     </li>
   );
 }

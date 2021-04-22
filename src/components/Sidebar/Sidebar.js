@@ -39,6 +39,10 @@ function Sidebar({ contacts, techSkills, softSkills }) {
           ))}
         </ul>
       </div>
+      <div className={s.section}>
+        <h3 className={s.title}>Languege</h3>
+        <p className={s.text}>English - intermediate</p>
+      </div>
     </aside>
   );
 }
