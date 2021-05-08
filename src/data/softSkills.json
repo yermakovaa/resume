@@ -1,22 +1,26 @@
 [
   {
     "id": "id-1",
-    "label": "Teamwork"
+    "label": "Teamwork experience"
   },
   {
     "id": "id-2",
-    "label": "Scrum"
+    "label": "Responsible and organized"
   },
   {
     "id": "id-3",
-    "label": "Responsibility"
+    "label": "Attentive to details"
   },
   {
     "id": "id-4",
-    "label": "Flexibility"
+    "label": "Hardworking and meet deadlines"
   },
   {
     "id": "id-5",
-    "label": "Perseverance"
+    "label": "Ready to take initiative"
+  },
+  {
+    "id": "id-6",
+    "label": "Open to new knowledge and skills"
   }
 ]

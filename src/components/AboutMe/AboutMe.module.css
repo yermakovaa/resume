@@ -7,37 +7,38 @@
 }
 
 .profession {
-  font-size: 14px;
   font-weight: 700;
-  line-height: 24px;
+  font-size: 20px;
+  line-height: 1.2;
+  text-transform: uppercase;
+  color: var(--accentColor);
 }
 
 .name {
-  font-size: 45px;
   font-weight: 700;
-  line-height: 89px;
+  font-size: 45px;
+  line-height: 1.8;
 }
 
 .description {
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 1.71;
 }
 
 .title {
   margin-bottom: 20px;
 
-  font-size: 22px;
   font-weight: 700;
-  line-height: 24px;
+  font-size: 22px;
+  line-height: 1.09;
 }
 
 .subTitle {
   margin-bottom: 10px;
 
-  font-size: 16px;
   font-weight: 700;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .typeProject {

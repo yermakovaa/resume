@@ -8,7 +8,7 @@
     "duties": [
       {
         "id": "1",
-        "duty": "Accounting of several legal entities."
+        "duty": "Accounting of several legal entities in the 1c program."
       },
       {
         "id": "2",
@@ -16,7 +16,7 @@
       },
       {
         "id": "3",
-        "duty": "Preparation of accounting, statistical and tax reporting, submission via electronic communication channels."
+        "duty": "Data analysis in Excel."
       }
     ]
   },

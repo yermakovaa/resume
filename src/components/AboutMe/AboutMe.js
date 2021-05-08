@@ -8,19 +8,18 @@ function AboutMe({ commandProjects, ownProjects, experience, education }) {
   return (
     <div className={s.container}>
       <div className={s.section}>
-        <h2 className={s.profession}>Frontend (React) Developer</h2>
+        <h2 className={s.profession}>Front-end (React) Developer</h2>
         <h1 className={s.name}>Anastasiia Yermakova</h1>
         <p className={s.description}>
-          Hey 👋. Looking for a job for the position of Frontend (React)
-          Developer. I want to be in a good team, where I could improve my
-          skills and use them for interesting tasks. I am a fast learner,
-          responsible, ready for hard tasks.
+          I'm a Front-end Developer and looking for an interesting job. I want
+          to be in a good team to improve my skills and use them for interesting
+          tasks. I am a fast learner, responsible, ready for hard tasks.
         </p>
       </div>
       <div className={s.section}>
         <h3 className={s.title}>Projects</h3>
         <h4 className={s.subTitle}>
-          <span className={s.typeProject}>Command</span> projects
+          <span className={s.typeProject}>Teamwork</span> projects
         </h4>
         <ol className={s.list}>
           {commandProjects.map(({ id, label, link, tech }) => (
@@ -28,7 +27,7 @@ function AboutMe({ commandProjects, ownProjects, experience, education }) {
           ))}
         </ol>
         <h4 className={s.subTitle}>
-          <span className={s.typeProject}>Own</span> projects
+          <span className={s.typeProject}>My personal</span> projects
         </h4>
         <ol>
           {ownProjects.map(({ id, label, link, tech }) => (

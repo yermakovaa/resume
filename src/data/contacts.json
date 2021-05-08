@@ -15,20 +15,27 @@
   },
   {
     "id": "id-3",
+    "label": "Portfolio",
+    "icon": "https://www.flaticon.com/svg/static/icons/svg/1828/1828857.svg",
+    "link": "https://yer-portfolio.netlify.app/",
+    "text": "Portfolio"
+  },
+  {
+    "id": "id-4",
     "label": "Git Hub",
     "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111290.svg",
     "link": "https://github.com/yermakovaa/",
     "text": "GitHub"
   },
   {
-    "id": "id-4",
+    "id": "id-5",
     "label": "LinkedIn",
     "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111368.svg",
     "link": "https://www.linkedin.com/in/yermakovaa/",
     "text": "LinkedIn"
   },
   {
-    "id": "id-5",
+    "id": "id-6",
     "label": "Telegram",
     "icon": "https://www.flaticon.com/svg/static/icons/svg/2111/2111545.svg",
     "link": "https://t.me/ayermakova",
