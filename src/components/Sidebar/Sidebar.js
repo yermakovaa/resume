@@ -3,7 +3,8 @@ import TechSkills from '../TechSkills';
 import SoftSkills from '../SoftSkills';
 import PropTypes from 'prop-types';
 import s from './Sidebar.module.css';
-import myPhoto from '../../img/photo.jpeg';
+import myPhoto from '../../assets/img/photo.jpeg';
+import sv from '../../assets/SV.pdf';
 
 function Sidebar({ contacts, techSkills, softSkills }) {
   return (
@@ -42,6 +43,18 @@ function Sidebar({ contacts, techSkills, softSkills }) {
       <div className={s.section}>
         <h3 className={s.title}>Language</h3>
         <p className={s.text}>English - intermediate</p>
+      </div>
+
+      <div className={s.section}>
+        <a className={s.link} href={sv} target="_blank" rel="noreferrer">
+          <img
+            src="https://www.flaticon.com/svg/static/icons/svg/2820/2820284.svg"
+            alt="Download"
+            width="25"
+            className={s.icon}
+          />
+          Download CV
+        </a>
       </div>
     </aside>
   );

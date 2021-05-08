@@ -16,11 +16,11 @@
   overflow: hidden;
   white-space: nowrap;
 
-  color: var(--primaryTextColor);
-  font-size: 14px;
   font-weight: 400;
-  line-height: 24px;
+  font-size: 14px;
+  line-height: 1.71;
 
+  color: var(--primaryTextColor);
   transition: color 250ms var(--timingFn);
 }
 
@@ -35,8 +35,8 @@
 }
 
 .name {
-  color: var(--primaryTextColor);
-  font-size: 14px;
   font-weight: 400;
-  line-height: 24px;
+  font-size: 14px;
+  line-height: 1.71;
+  color: var(--primaryTextColor);
 }

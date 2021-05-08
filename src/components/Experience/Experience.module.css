@@ -9,9 +9,9 @@
 .title {
   margin-bottom: 15px;
 
-  font-size: 16px;
   font-weight: 700;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 .company {
@@ -22,10 +22,9 @@
   display: block;
   margin-bottom: 15px;
 
-  color: var(--secondaryTextColor);
   font-size: 12px;
-  font-weight: 400;
-  line-height: 24px;
+  line-height: 2;
+  color: var(--secondaryTextColor);
 }
 
 .divider {
@@ -33,9 +32,9 @@
 }
 
 .duty {
+  font-size: 14px;
+  line-height: 1.71;
+
   list-style: inside;
   color: var(--primaryTextColor);
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 24px;
 }
