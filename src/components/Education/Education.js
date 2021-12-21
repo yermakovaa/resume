@@ -1,21 +1,16 @@
 import s from './Education.module.css';
 
-function Education({ university, label, time, experience }) {
+function Education({ university, label, time, link }) {
   return (
     <li className={s.item}>
       <p className={s.university}>{university}</p>
-      <p className={s.education}>{label}</p>
+      <a href={link} className={s.education} target="_blank" rel="noreferrer">
+        {label}
+      </a>
       <span className={s.time}>
         {time}
         <span className={s.divider}> |</span> Ukraine
       </span>
-      {experience && (
-        <ul className={s.list}>
-          {experience.map(({ id, label }) => (
-            <li key={id}>{label}</li>
-          ))}
-        </ul>
-      )}
     </li>
   );
 }

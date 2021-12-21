@@ -1,9 +1,8 @@
 import s from './Contacts.module.css';
 
-function Contacts({ label, link, text, icon }) {
+function Contacts({ link, text }) {
   return (
     <li className={s.contact}>
-      <img src={icon} alt={label} width="25" className={s.icon} />
       <a className={s.link} href={link} target="_blank" rel="noreferrer">
         {text}
       </a>

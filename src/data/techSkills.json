@@ -16,8 +16,16 @@
     "label": "Sass"
   },
   {
+    "id": "id-10",
+    "label": "Less"
+  },
+  {
     "id": "id-5",
     "label": "JavaScript"
+  },
+  {
+    "id": "id-11",
+    "label": "TypeScript"
   },
   {
     "id": "id-6",
@@ -29,10 +37,6 @@
   },
   {
     "id": "id-8",
-    "label": "Node.js"
-  },
-  {
-    "id": "id-9",
-    "label": "MongoDB"
+    "label": "Next.js"
   }
 ]

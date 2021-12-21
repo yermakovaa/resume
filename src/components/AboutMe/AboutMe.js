@@ -55,13 +55,13 @@ function AboutMe({ commandProjects, ownProjects, experience, education }) {
       <div className={s.section}>
         <h3 className={s.title}>Education</h3>
         <ul>
-          {education.map(({ id, university, label, time, experience }) => (
+          {education.map(({ id, university, label, time, link }) => (
             <Education
               key={id}
               university={university}
               label={label}
               time={time}
-              experience={experience}
+              link={link}
             />
           ))}
         </ul>

@@ -4,42 +4,12 @@
     "university": "GoIT",
     "label": "Certificate Course in Full stack developer",
     "time": "April 2020 - April 2021",
-    "experience": [
-      {
-        "id": "1",
-        "label": "Teamwork experience."
-      },
-      {
-        "id": "2",
-        "label": "Experience with code versioning tools (such as Git)."
-      },
-      {
-        "id": "3",
-        "label": "The layout of the web pages with clean cross-browser valid code using Figma."
-      },
-      {
-        "id": "4",
-        "label": "Experience in web application development using JavaScript."
-      },
-      {
-        "id": "5",
-        "label": "Developing new user-facing features using React.js."
-      },
-      {
-        "id": "6",
-        "label": "Experience in creating a REST API for working with a collection."
-      },
-      {
-        "id": "7",
-        "label": "Experience in back-end development using Node.js and MongoDB."
-      }
-    ]
+    "link": "https://drive.google.com/file/d/1v5HJE0s83hc9_UjdKOk7PQfPS1vMkUen/view"
   },
   {
     "id": "id-2",
     "university": "Donetsk State University of Management",
     "label": "Master's degree - Finance and credit",
-    "time": "Septermber 2015 - January 2017",
-    "experience": null
+    "time": "Septermber 2015 - January 2017"
   }
 ]

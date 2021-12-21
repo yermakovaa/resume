@@ -1,5 +1,34 @@
 [
   {
+    "id": "id-4",
+    "profession": "Junior Frontend Developer",
+    "company": "UnifyOrdering",
+    "time": "May 2021 - Present",
+    "country": "Ireland",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Teamwork experience."
+      },
+      {
+        "id": "2",
+        "duty": "Experience with code versioning tools (such as Git)."
+      },
+      {
+        "id": "3",
+        "duty": "Experience in web application development using React.js, Typescript."
+      },
+      {
+        "id": "4",
+        "duty": "Experience in creating a landing page on Next.js."
+      },
+      {
+        "id": "5",
+        "duty": "The layout of the web pages with clean cross-browser valid code using Figma."
+      }
+    ]
+  },
+  {
     "id": "id-1",
     "profession": "Accountant",
     "company": "Private enterprise",

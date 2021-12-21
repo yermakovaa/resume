@@ -13,14 +13,8 @@ function Sidebar({ contacts, techSkills, softSkills }) {
       <div className={s.section}>
         <h3 className={s.title}>Contacts</h3>
         <ul>
-          {contacts.map(({ id, label, link, text, icon }) => (
-            <Contacts
-              key={id}
-              label={label}
-              link={link}
-              text={text}
-              icon={icon}
-            />
+          {contacts.map(({ id, link, text }) => (
+            <Contacts key={id} link={link} text={text} />
           ))}
         </ul>
       </div>
@@ -47,12 +41,6 @@ function Sidebar({ contacts, techSkills, softSkills }) {
 
       <div className={s.section}>
         <a className={s.link} href={sv} target="_blank" rel="noreferrer">
-          <img
-            src="https://www.flaticon.com/svg/static/icons/svg/2820/2820284.svg"
-            alt="Download"
-            width="25"
-            className={s.icon}
-          />
           Download CV
         </a>
       </div>

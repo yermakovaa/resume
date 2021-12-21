@@ -17,10 +17,18 @@
 
 .education {
   margin-bottom: 10px;
+  display: block;
 
   font-weight: 700;
   font-size: 14px;
   line-height: 1.71;
+  color: #000000;
+  transition: all 250ms var(--timingFn);
+}
+
+.education:hover,
+.education:focus {
+  color: var(--accentColor);
 }
 
 .time {
@@ -31,14 +39,4 @@
 
 .divider {
   color: #000000;
-}
-
-.list {
-  margin-top: 10px;
-
-  font-size: 14px;
-  line-height: 1.71;
-
-  list-style: inside;
-  color: var(--primaryTextColor);
 }
